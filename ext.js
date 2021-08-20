@@ -16,3 +16,4 @@ function make_my_profit(){
         }
     }
 }
+alert("Script Took place");
