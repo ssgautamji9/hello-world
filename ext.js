@@ -1,5 +1,5 @@
 var is_triggered = false; 
-var my_trigger_price = 5.1;
+var my_trigger_price = 5.9;
 function make_my_profit(){
     if(is_triggered === false)
     {
